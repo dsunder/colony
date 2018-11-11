@@ -1,0 +1,13 @@
+# Standard ignores
+*~
+*.pyc
+\#*#
+.#*
+.*.swp
+.cproject
+.project
+testing/
+.settings/
+build/
+.ycm_extra_conf.py
+.color_coded
